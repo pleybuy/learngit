@@ -3,6 +3,5 @@
 
 int main()
 {
-	printf("hello world txhu\n");
 	return 0;
 }
