@@ -4,6 +4,7 @@
 int main(){
 	test;
 	myfile;
+	this is me;
 	printf("hello hutao\n");
 	return 0;
 }
