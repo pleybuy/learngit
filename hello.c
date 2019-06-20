@@ -4,7 +4,7 @@
 int main(){
 	test;
 	myfile;
-	printf("hello but not world\n");
+	printf("hello txhu\n");
 	return 0;
 }
 
