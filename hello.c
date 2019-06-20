@@ -5,7 +5,7 @@ int main()
 {
 	test;
 	myfile;
-	printf("hello txhu\n");
+	printf("hello pleybuy\n");
 	return 0;
 }
 
