@@ -3,6 +3,7 @@
 
 int main()
 {
-	std::cout<<""<<std::endl;
+	test;
+	printf("hello world\n");
 	return 0;
 }
