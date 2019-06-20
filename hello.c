@@ -3,6 +3,7 @@
 
 int main(){
 	test;
+	myfile;
 	printf("hello but not world\n");
 	return 0;
 }
