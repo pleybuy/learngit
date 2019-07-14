@@ -10,6 +10,7 @@ int main()
 	return 0;
 }
 //git rebase 学习
+//add log
 void test()
 {
 	test();
